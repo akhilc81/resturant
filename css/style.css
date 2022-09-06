@@ -1,0 +1,45 @@
+.navbar-brand{
+    color: black;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+.nav-link{
+    margin-left: 20px;
+    color: black;
+}
+nav{
+    background-color: lightblue;
+}
+#bt{
+    position: relative;
+    left: -10px;
+    height: 34px;
+border: 0px;
+color: white;
+}
+#fb{
+    margin-left: 20px;
+}
+.one{
+    float: left;
+    margin-left: 20px;
+}
+.hm{
+    margin-left: 50px;
+}
+
+.carousel-item{
+    width: 500px;
+}
+.carousel-inner{
+ width: 500px;
+margin-top: 150px;
+}
+
+body{
+    background-color: aqua;
+    
+}
+.tyu{
+    width: 500px;
+}

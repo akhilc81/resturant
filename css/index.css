@@ -1,0 +1,29 @@
+body{
+padding: 0%;
+margin: 0%;
+
+}
+.fl{
+    float: left;
+}
+.m:hover{
+    transform: scale(1.01);
+    transition-delay: 0s;
+    transition-duration: 1s;
+}
+#about{
+    text-align: justify;
+    color: rgb(1, 248, 248);
+    padding-bottom: 50px;
+}
+.about{
+  
+  
+   background-color: black;
+
+    
+}
+.b{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
